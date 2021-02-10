@@ -1,8 +1,4 @@
-body{
-  
 
-}
-  
 
 .carousel-item {
     height: 32rem;
@@ -58,6 +54,12 @@ p{
 
 .history {
   margin-top: 5.2rem;
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
 }
 
 

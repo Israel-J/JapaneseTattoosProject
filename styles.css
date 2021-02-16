@@ -1,9 +1,11 @@
-
+body {
+  font-family: "Open Sans", sans-serif;
+}
 
 .carousel-item {
-    height: 32rem;
-    background: #777;
-    position: relative;
+  height: 32rem;
+  background: #777;
+  position: relative;
 }
 
 .overlay-image {
@@ -25,9 +27,8 @@ h3 {
   font-size: 2.2rem;
 }
 
-p{
+p {
   margin-top: 5.5rem;
-  
 }
 
 .imagery {
@@ -43,7 +44,7 @@ p{
 }
 
 .site-footer {
-  background-color: rgb(66, 65, 65);
+  background-color: #362c39;
   position: absolute;
   left: 0;
   right: 0;
@@ -62,7 +63,18 @@ p{
   min-height: 200px;
 }
 
+.navbar {
+  background-image: linear-gradient(360deg, #362c39, #85587c);
+}
 
+.clark {
+  margin-top: 5.5rem;
+}
 
+.aaron {
+  margin-top: 5.5rem;
+}
 
-
+.jojo {
+  margin-top: 5.5rem;
+}
